@@ -23,12 +23,12 @@ O projeto apresenta um portal de notícias sobre tecnologia, com notícias em de
 - Estilização de cards com imagens, legendas e gradientes.
 - Separação dos estilos em arquivos por responsabilidade.
 
-## Como visualizar
+## Como acessar pelo GitHub Pages
 
-1. Baixe ou clone este repositório.
-2. Abra o arquivo `index.html` no navegador.
+Para visualizar o projeto diretamente no navegador, sem baixar o código ou instalar ferramentas:
 
-Também é possível utilizar a extensão Live Server do VS Code para visualizar a página durante o desenvolvimento. O projeto não exige instalação de dependências ou etapa de build.
+1. Acesse [Portal de Notícias — Tech News](https://eduardonobilioni.github.io/Portal-de-noticias/).
+2. Navegue pela página para conferir o layout e as seções de notícias.
 
 ## Estrutura do projeto
 
